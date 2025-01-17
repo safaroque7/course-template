@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content-list li a:hover{
+    text-decoration: underline !important;
+}
+
+.content-list {
+    height: 91.4155vh;
+    overflow: auto;
+}
